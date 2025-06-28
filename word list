@@ -1,0 +1,11 @@
+# words for hangman game
+#add words as you like
+
+words = ("apple", "orange", "banana", "coconut", "pineapple", "mercedes", "mango", "mclaren", "redbull", "ferrari", "volcano",
+         "material", "simply lovely", "crazy", "lion", "tiger", "elephant", "giraffe", "zebra", "kangaroo", "panda", "dolphin",
+         "eagle", "penguin","apple", "ball", "cat", "dog", "egg", "fish", "goat", "hat", "ice", "jam","kite", "lion", "moon",
+         "nest", "owl", "pen", "queen", "rat", "sun", "tree","umbrella", "van", "wolf", "xray", "yarn", "zebra", "air", "bat",
+         "cold", "drum", "eat", "farm", "game", "hill", "iron", "jump","kid", "log", "mud", "nail", "open", "path", "quiz",
+         "rope", "seat", "tent","use", "vote", "wind", "axe", "blue", "coin", "dig", "elf", "fire", "gum","hop", "inch", "joy",
+         "knee", "luck", "mix", "name", "oak", "pearl", "quick","rest", "ship", "twin", "unit", "vast", "warm", "yell", "zipper",
+         "bark", "clay")
